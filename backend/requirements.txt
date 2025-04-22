@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langchain
+openai
+faiss-cpu
+python-multipart
+python-docx
+PyMuPDF  # for better PDF handling (optional)
